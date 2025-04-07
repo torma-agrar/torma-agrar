@@ -1,0 +1,6 @@
+.tiktok-sor {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap; /* Ha nem fér ki, új sorba törik */
+}
